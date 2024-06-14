@@ -1,0 +1,110 @@
+
+html, body {
+ 
+  font-family: 'Apercu Pro', sans-serif;
+  margin: 0;
+  padding: 0;
+
+  box-sizing: border-box; 
+}
+.app{
+  
+  display: flex;
+  flex-direction: column;
+  width:1366px;
+  height:1350px;
+ 
+}
+
+.card-comp
+{
+  display: flex;
+  margin-top: 26px;
+}
+
+.card-comp2{
+  display: flex;
+  margin-top: 26px;
+  
+ 
+}
+.get-ans
+{
+margin-top: 26px;
+width: 496px;
+height: 32px;
+/* UI Properties */
+text-align: left;
+font: normal normal medium 24px/30px Apercu Pro;
+letter-spacing: 0px;
+color: #1A1B1E;
+opacity: 1;
+}
+
+.background{
+  background: #F7F8FA 0% 0% no-repeat padding-box;
+  opacity: 1;
+  width: 1378px;
+  height: 1300px;
+  padding-left:60px;
+  
+}
+
+.Get{
+  text-align: left;
+font: normal normal medium 24px/30px Apercu Pro;
+font-weight: bold;
+  font-family: 'Apercu Pro', sans-serif;
+letter-spacing: 0px;
+color: #1A1B1E;
+opacity: 1;
+
+}
+
+.to-all
+{
+  width: 148px;
+height: 19px;
+/* UI Properties */
+text-align: left;
+font: normal normal bold 16px/20px Apercu Pro;
+letter-spacing: 0px;
+color: #1A1B1E;
+opacity: 1;
+}
+
+.left{
+  width: 14px;
+height: 24px;
+background: #000000 0% 0% no-repeat padding-box;
+opacity: 0.2;
+}
+
+.right
+{
+  width: 14px;
+height: 24px;
+background: #000000 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.text-card{
+  display:flex;
+}
+.container
+{
+  
+}
+.welcome
+{
+  text-align: left;
+font: normal normal bold 16px/20px Apercu Pro;
+font-weight: bold; /* Sets font to bold */
+  font-family: 'Apercu Pro', sans-serif;
+letter-spacing: 0px;
+color: #1A1B1E;
+opacity: 1;
+}
+
+
+
+
